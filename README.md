@@ -1,5 +1,6 @@
 # fuse8
-
+link to to watch working application:
+https://fuse8-26816.web.app/
 ## Project setup
 ```
 npm install
